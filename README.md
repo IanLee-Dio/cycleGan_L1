@@ -1,5 +1,5 @@
 # cycleGan_L1
-kaggle api is not been setup yet, so we have to download dataset from url https://www.kaggle.com/competitions/gan-getting-started/data
+kaggle api has not setup yet, so dataset needs to be downloaded from url https://www.kaggle.com/competitions/gan-getting-started/data
 
 folders structure as below:
 -images
